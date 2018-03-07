@@ -155,7 +155,7 @@
 					<testFailureIgnore>true</testFailureIgnore>
 
 					<includes>
-						<include>**/definitions/**/*Test.java</include>
+						<include>com.choucair.formacion/**/*.java</include>
 					</includes>
 
 					<systemProperties>
